@@ -1,0 +1,18 @@
+div {
+    margin-bottom: 15px;
+    padding: 4px 12px;
+  }
+
+ .review-heading{
+   text-align: center;
+ }
+  
+
+  .success {
+    background-color: #ddffdd;
+    border-left: 6px solid #4CAF50;
+  }
+
+.left-text{
+  padding-right: 20px;  
+}

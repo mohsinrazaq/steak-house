@@ -1,0 +1,23 @@
+.menu-add-table
+{
+    display: block;
+    padding-left:200px;
+    padding-top: 20px;
+    padding-bottom:20px;
+    text-align: center;
+}
+
+.menu-add-table td{
+    padding-right: 100px;
+}
+
+.items-avail{
+    display: block;
+    text-align: center;
+    padding: 20px;
+}
+
+
+.items-avail td{
+    padding: 20px;
+}
